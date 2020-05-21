@@ -1,0 +1,21 @@
+body{
+    background: #2C2141;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    
+}
+
+.main{
+    background: white;
+    border-radius:16px;
+    width: 628px; 
+    padding: 32px;
+}
+
+.avatar{
+    width: 148px;
+    height:148px;
+    border-radius:50%;
+}
